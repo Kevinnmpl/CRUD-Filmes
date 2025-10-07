@@ -16,5 +16,7 @@ O foco do projeto é testar as regras de negócio com os testes unitários autom
 
 No terminal coloque: python -m pytest --cov=src --cov-report=term-missing
 
+# Resultado
+![Resultadoteste](./printdoteste/Resultado_do_Teste.png)
 
 By Kevin Marques 
